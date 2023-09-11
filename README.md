@@ -7,9 +7,9 @@
 
 ### 关卡选择
 
-![关卡选择界面](\res\level.png)
-![特殊选择](\res\choose.png)
+![关卡选择界面](\level.png)
+![特殊选择](\choose.png)
 
 ### 战斗界面
-![战斗](\res\battle.png)
-![胜利](\res\win.png)
+![战斗](\battle.png)
+![胜利](\win.png)
